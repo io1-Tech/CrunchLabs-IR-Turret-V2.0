@@ -2,7 +2,7 @@
 
 
 
-![IR turret](photos/DSC06171.JPG)
+![IR turret](photos/DSC06171.jpg)
 
 ## 📦 Project Contents
 
