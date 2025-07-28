@@ -17,7 +17,7 @@
 
 This robot can be controlled using:
 - IR Controller, same as official version.
-![Imagen](photos/DSC05192.JPG)
+![Imagen](photos/DSC05192.jpg)
 
 ## 🔩 Full Component List
 
@@ -48,10 +48,10 @@ Here’s a list of the main tools and platforms I used throughout the WALL·E pr
 
 ## 📸 Preview
 
-![image](photos/DSC06172.JPG)
-![image](photos/DSC06125.JPG)
-![image](photos/DSC06186.JPG)
-![image](photos/DSC06265.JPG)
+![image](photos/DSC06172.jpg)
+![image](photos/DSC06125.jpg)
+![image](photos/DSC06186.jpg)
+![image](photos/DSC06265.jpg)
 
 ## 🧠 Author
 
